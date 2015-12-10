@@ -1,15 +1,13 @@
-Blog project for M101JS
+#Sample blog appication
 
-./app.js - entry point
-./package.json - npm package description
-./routes/ - Application routes
-./posts.js - Posts Data Access Helper
-./sessions.js - Sessions Data Access Helper
-./users.js - Users Data Access Helper
-./views/ - html templates
+##Uses Node + MongoDb + Swig
 
-Getting started
+To start: 
 
-npm install
-node app.js
+1)Start mongod sever by going to bin folder and then ./mongod
+
+2) npm install
+
+3) node app.js
+
 # NodeMongoDbBlog
